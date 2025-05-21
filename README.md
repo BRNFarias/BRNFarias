@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=300&size=15&duration=7000&pause=2000&color=FF6347&center=true&width=435&lines=Future+DevOps+%7C+Cloud+Intern+%7C+Software+Engineer" alt="Typing SVG"
 </p>
 
-<br>
-<p align="center">
-
-</p>
-
-
   ## Sobre Mim
   
 <img align="right" height="180" weight="180" src="https://cdn.pixabay.com/animation/2024/04/14/23/56/23-56-18-870_512.gif">
@@ -35,9 +29,13 @@
   <img src="https://skillicons.dev/icons?i=js,mysql,figma,windows,vscode">
 </p>
 
-<p align="center">
-  
-</p>
+<hr>
 
+<p align="center">
+  <a href="https://www.credly.com/users/breno-farias" target="_blank">
+    <img height="100" weight="100" src="https://i.ibb.co/yBZ4Wjqq/golden-trophy-cup-in-pixel-art-style.png"/><br>
+  </a>
+ &#128070; Confira minhas certificações &#128070;
+</p>
 
 
